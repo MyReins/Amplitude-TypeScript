@@ -1,4 +1,4 @@
-import { Types } from '@amplitude/analytics-react-native';
+import { Types } from '@myreins/analytics-react-native';
 import ReactNativeIdfaAaid from '@sparkfabrik/react-native-idfa-aaid';
 
 export default class IdfaPlugin implements Types.BeforePlugin {

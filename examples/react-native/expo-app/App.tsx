@@ -1,7 +1,7 @@
 import {StatusBar} from 'expo-status-bar';
 import {StyleSheet, Text, View} from 'react-native';
 import {useEffect} from 'react';
-import {identify, Identify, init, track} from '@amplitude/analytics-react-native';
+import {identify, Identify, init, track} from '@myreins/analytics-react-native';
 import {LogLevel} from '@amplitude/analytics-types';
 
 export default function App() {

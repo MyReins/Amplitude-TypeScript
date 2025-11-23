@@ -38,7 +38,7 @@ import {
   identify,
   init,
   track,
-} from '@amplitude/analytics-react-native';
+} from '@myreins/analytics-react-native';
 import { LogLevel } from '@amplitude/analytics-types';
 import { NavigationContainer } from '@react-navigation/native';
 
